@@ -2,7 +2,7 @@
 # 💫 About Me:
 <br>- 🔭 I’m currently working on [Wego](https://github.com/carolemlago/wego-app)
 <br>- 🌱 Also learning React and Data Structures
-<br>- 👯 I’m looking to collaborate on open-source projects
+<br>- 👯 I'm a developer volunteer at Hack for LA
 <br>- 📫 How to reach me: carolemlago@gmail.com
 <br>- 😄 Pronouns: She/her 
 <br>- ⚡ Fun fact: I was the screenwriter for a short-film in 2015.
